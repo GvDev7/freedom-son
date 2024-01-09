@@ -1,0 +1,15 @@
+{
+  "name": "fas",
+  "version": "1.0.0",
+  "description": "local pressure washing business website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pressure",
+    "washing"
+  ],
+  "author": "Aaron McNeal",
+  "license": "ISC"
+}
